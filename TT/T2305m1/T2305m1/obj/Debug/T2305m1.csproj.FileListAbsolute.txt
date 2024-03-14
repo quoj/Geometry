@@ -1,0 +1,14 @@
+E:\apc\T2305m1\T2305m1\bin\Debug\T2305m1.exe.config
+E:\apc\T2305m1\T2305m1\bin\Debug\T2305m1.exe
+E:\apc\T2305m1\T2305m1\bin\Debug\T2305m1.pdb
+E:\apc\T2305m1\T2305m1\obj\Debug\T2305m1.csproj.AssemblyReference.cache
+E:\apc\T2305m1\T2305m1\obj\Debug\T2305m1.csproj.CoreCompileInputs.cache
+E:\apc\T2305m1\T2305m1\obj\Debug\T2305m1.exe
+E:\apc\T2305m1\T2305m1\obj\Debug\T2305m1.pdb
+E:\apc\TT\T2305m1\T2305m1\bin\Debug\T2305m1.exe.config
+E:\apc\TT\T2305m1\T2305m1\bin\Debug\T2305m1.exe
+E:\apc\TT\T2305m1\T2305m1\bin\Debug\T2305m1.pdb
+E:\apc\TT\T2305m1\T2305m1\obj\Debug\T2305m1.csproj.AssemblyReference.cache
+E:\apc\TT\T2305m1\T2305m1\obj\Debug\T2305m1.csproj.CoreCompileInputs.cache
+E:\apc\TT\T2305m1\T2305m1\obj\Debug\T2305m1.exe
+E:\apc\TT\T2305m1\T2305m1\obj\Debug\T2305m1.pdb
